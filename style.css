@@ -1,48 +1,49 @@
-#banner {
-	width:100%;
+header {
 }
-
-.principal{
-	background: #CCCCCC;
-	padding: 30px;
+header {
+background: #BBBBBB;
 }
+<nav>
 
-.titulo-principal {
-	padding-left: 20px;
+<ul>
+<li><a href=”index.html”>Home</a></li>
+<li><a href=”Produtos.html”>Produtos</a></li>
+<li><a href=”contato.html”>Contato</a></li>
+</ul>
+</nav>
+nav li {
+display: inline;
 }
-
-.titulo-centralizado {
-	text-align: center
+nav a {
+text-transform: uppercase;
 }
-
-p {
-	text-align: center;
+nav a {
+text-transform: uppercase;
+color: #000000;
 }
-
-#missao {
-	font-size: 20px
+nav a {
+text-transform: uppercase;
+color: #000000;
+font-weight: bold;
 }
-
-em strong {
-	color: #FF0000;
+nav a {
+text-transform: uppercase;
+color: #000000;
+font-weight: bold;
+font-size: 22px;
 }
-
-.itens {
-	font-style: italic
+nav a {
+text-transform: uppercase;
+color: #000000;
+font-weight: bold;
+font-size: 22px;
+text-decoration: none;
 }
-
-.beneficios {
-	background: #FFFFFF;
-	padding: 20px;
+nav li {
+display: inline;
+margin:
 }
-
-ul {
-	display: inline-block;
-	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
-}
-
-.imagembeneficios {
-	width: 50%;
+nav li {
+display: inline;
+margin: 0 0 0 15px;
 }
